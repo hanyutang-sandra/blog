@@ -1,0 +1,32 @@
+/* Categort filters */
+.filters {
+    overflow: hidden; /* clearfix */
+    text-align: left;
+    margin-bottom: 2rem;
+}
+  
+#category-filter {
+    width: 8rem;
+    height: 3rem;
+    padding-left: .5rem;
+    border: 1px solid #eee;
+    font-size: 15px;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: #303030;
+    appearance: none; 
+    -webkit-appearance: none; 
+    -moz-appearance: none; 
+    cursor: pointer;
+    outline: none; 
+    border-radius: 4px;;
+}
+
+#category-filter:focus {
+    border-color: #6a9fb5;
+}
+
+#category-filter>option {
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+}

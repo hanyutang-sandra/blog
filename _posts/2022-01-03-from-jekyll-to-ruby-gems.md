@@ -1,10 +1,12 @@
 ---
 layout: post
 title: From a Jekyll blog to Ruby (Basics)
-category: Other
+categories: [Tech]
 ---
 
 For someone who works primarily around Python & JavaScript (and recently started iOS dev with Obj-C and Swift), setting up this blog with [Jekyll](https://jekyllrb.com/) is my first experience to interact with everything Ruby. I had some struggles during development around understanding some terminologies and setting up the environment, but I found comparing them with what I know in Python and JavaScript works well for me.
+
+<!--more-->
 
 ## Ruby, Gems, and RubyGems 💎
 

@@ -1,7 +1,16 @@
 ---
 layout: default
-title: Home
+title: Blogs
 ---
+
+<div class="filters">
+  <select id="category-filter">
+    <option value="all">All Categories</option>
+    {% for category in site.categories %}
+      <option value="{{ category[0] | downcase }}">{{ category[0] | capitalize }}</option>
+    {% endfor %}
+  </select>
+</div>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -12,19 +21,14 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string: "ordinal", "US" }}</span>
-
-    {{ post.content }}
+    <span class="post-date">{{ post.date | date_to_string: "ordinal", "US" }} | </span>
+    <span class="post-category">{{ post.categories[0] }}</span>
+    {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Previous</span>
-  {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
@@ -33,5 +37,10 @@ title: Home
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Next</span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Previous</a>
+  {% else %}
+    <span class="pagination-item older">Previous</span>
   {% endif %}
 </div>

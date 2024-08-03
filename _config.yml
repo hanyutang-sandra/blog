@@ -1,11 +1,12 @@
 # Setup
 title:               Hanyu
 tagline:             "Blog"
-description:         "Hello! My name is Hanyu Tang. I'm a software engineer. Welcome to my blog :)"
+description:         "Hello! My name is Hanyu Tang. Welcome to my blog :)"
 url:                 https://hanyutang-sandra.github.io/blog
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+excerpt_separator:   <!--more-->
 
 # About/contact
 author:
