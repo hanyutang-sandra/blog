@@ -3,7 +3,7 @@ title:               Hanyu
 tagline:             "Blog"
 description:         "Hello! My name is Hanyu Tang. Welcome to my blog :)"
 url:                 https://hanyutang-sandra.github.io
-baseurl:             ''
+baseurl:             '/blog'
 paginate:            5
 permalink:           pretty
 excerpt_separator:   <!--more-->
