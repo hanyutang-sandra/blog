@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I have learnt from leading a 6-month-long project
-categories: [Work]
+categories: Work
 ---
 
 **1:30 pm EDT, Auguest 2nd, 2024, Toronto Canada.**  I wrapped up my morning with the final project meeting and treated myself to a Baskin Robbins Strawberry Cheesecake Scoop in a waffle cone to celebrate. I don't often indulge in sweets for *health*, but today was an exception because it marked the end of my six-month journey as the project lead. 
