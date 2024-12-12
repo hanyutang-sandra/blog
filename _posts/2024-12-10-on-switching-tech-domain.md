@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was I Wrong to Switch Tech Domain
-categories: Work
+category: Work
 ---
 
 The last quarterly performance review of 2024 concluded as expected—**no promotions, subdimension bumps, or salary increases**. I wasn't surprised. I know deep in my heart that I'm not there yet. Having rapidly advanced to IC3 just *1.5 years* after being hired as a new grad, I've now held this position for 3.5 years—a tenure marked by receiving the *pity bonus*, a recognition for those stationed at IC3 for over three years. 
