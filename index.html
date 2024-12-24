@@ -7,7 +7,7 @@ title: Blogs
   <select id="category-filter">
     <option value="all">All Categories</option>
     {% for category in site.categories %}
-      <option value="{{ category | downcase }}">{{ category | capitalize }}</option>
+      <option value="{{ category[0] | downcase }}">{{ category[0] | capitalize }}</option>
     {% endfor %}
   </select>
 </div>
