@@ -14,6 +14,7 @@ title: Blogs
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% if post.tag == 'Featured'%}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
@@ -25,6 +26,7 @@ title: Blogs
     <span class="post-category">{{ post.category }}</span>
     {{ post.excerpt }}
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 

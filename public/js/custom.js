@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
         posts.forEach(pst => pst.style.display = "block")
         return
       }
-  
+      
       posts.forEach((pst) => {
         const postCategories = pst.querySelector(".post-category").textContent.toLowerCase()
         const categoryMatch = postCategories === selectedCategory
