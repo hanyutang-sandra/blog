@@ -1,13 +1,15 @@
-```
+---
 layout: post
 title: What Happens when the User Taps on Screen?
 category: Tech
 tag: Featured
-```
+---
 
 I was recently asked this question in an iOS engineer interview. Instead of the simple answer regarding **responder chain**, the interviewer requested the answer to be as detailed as possible. After the interview, I digged through internet archives, UIKit documentation as well as answers from ChatGPT to look for information, and this is an revisited version of my answer to the question **"What happens when the User Taps on Screen?"** 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pheWhzdW1wZXkxOHZvdXE2MHFuaGRpdzI2ZGljcHc2N2I2ZzJoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/st3jqoJJn6qdGPv9br/giphy.gif" title="" alt="Tapping Like This" data-align="center">
+
+<!--more-->
 
 # Step 0: Before the Touch Events
 
