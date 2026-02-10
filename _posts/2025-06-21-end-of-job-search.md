@@ -9,7 +9,7 @@ tag: Featured
 
 On **June 18th. 2025**, I signed the offer that marked the end of this chapter. This is the story of the season of the job hunt.
 
-<img title="" src="https://i.postimg.cc/QxMQtNvm/IMG-7739.jpg" alt="IMG_7739.jpg" width="686">
+<img title="" src="/assets/images/IMG-7739.jpg" alt="IMG_7739.jpg" width="686">
 
 (Friendly Geese)
 
@@ -33,7 +33,7 @@ But every good party must end. I knew I couldn’t stay in one place forever. To
 
 After my final week, I mailed back my work laptop but kept my badge. I thought I would cry, but I didn’t. Instead, my friend and I went to Niagara Falls in the cruel Canadian winter. I watched the water rush beneath layers of ice, felt tiny frozen particles hit my cheeks, and suddenly remembered my love for water— it flows. And I, too, began to *flow*.
 
-![IMG_7739.jpg](https://i.postimg.cc/5yt6x0VJ/IMG-5959.jpg)
+![IMG_7739.jpg](/assets/images/IMG-5959.jpg)
 
 (Icy water in Niagara River)
 
@@ -61,7 +61,7 @@ At the beginning, things looked promising. I received an offer from TikTok for a
 
 Eventually, I kept walking. I reached out to friends asking for referrals—and every single one of them replied, gladly. I spoke with childhood friends on the other side of the world, and they shared the things that helped them when they too felt lost. And my family—always quietly behind me—never wavered. Neither of my parents come from a tech background, and both only attended local colleges. But that never stopped them from offering me every kind of support, from career advice to financial help. Even now, just thinking about them fills my heart with warmth. And let’s not forget the dogs—Gourdy, my lovely little pup, was always there. He’d lick my tears away when they fell and offer kisses and snuggles whenever I was down. In his way, he reminded me that I was loved and I was never alone.
 
-![IMG_7739.jpg](https://i.postimg.cc/mk8MdBGj/IMG-7050.jpg)
+![IMG_7739.jpg](/assets/images/IMG-7050.jpg)
 
 (Silly Gourd)
 

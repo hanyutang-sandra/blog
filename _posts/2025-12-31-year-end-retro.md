@@ -9,7 +9,7 @@ I can’t remember where I saw my first *Year in Review*. It was probably Google
 
 Fast forward to 2025, *Year in Review* is everywhere: Spotify, Instagram, LinkedIn...... even ChatGPT. I expected it to feel awkward, but OpenAI handled it surprisingly well.
 
-<img title="" src="https://i.postimg.cc/fTydTGw5/IMG-0798.jpg" alt="Still Life with MacBook and Dog Bowl - ChatGPT, 2025" width="338" data-align="center">
+<img title="" src="/assets/images/IMG-0798.jpg" alt="Still Life with MacBook and Dog Bowl - ChatGPT, 2025" width="338" data-align="center">
 
 I’ve always found retrospectives useful, both for clarity and for growth. So here it is: my reflection on 2025.
 
@@ -49,7 +49,7 @@ Preparing for interviews pushed me to deliberately refresh those foundations. I 
 
 
 
-<img title="LC Status" src="https://i.postimg.cc/Kv1KytNV/Screenshot-2026-01-02-at-4-48-59-PM.png" alt="LC Status" width="521" data-align="center">
+<img title="LC Status" src="/assets/images/Screenshot-2026-01-02-at-4-48-59-PM.png" alt="LC Status" width="521" data-align="center">
 
 
 
@@ -85,7 +85,7 @@ Somewhat surprisingly, this was my first time reading *Cracking the Coding Inter
 
 ## Gourdy
 
-<img title="" src="https://i.postimg.cc/T2LyzrQc/IMG-0937.jpg" alt="IMG_0937.jpg" width="323" data-align="center">
+<img title="" src="/assets/images/IMG-0937.jpg" alt="IMG_0937.jpg" width="323" data-align="center">
 
 
 
