@@ -30,3 +30,18 @@
     background-color: #fff;
     color: #333;
 }
+
+/* Wider content column. Overrides lanyon.css `.container` defaults (28/32/38rem). */
+.container {
+  max-width: 32rem;
+}
+@media (min-width: 38em) {
+  .container {
+    max-width: 36rem;
+  }
+}
+@media (min-width: 56em) {
+  .container {
+    max-width: 44rem;
+  }
+}
