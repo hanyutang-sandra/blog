@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Click Snap Selfie Time: Snapshotting SwiftUI Views on macOS: Three Approaches (and an ImageRenderer Gotcha)"
+title: Snapshotting SwiftUI Views on macOS (Three Approaches and an ImageRenderer Gotcha)
 category: Tech
 tag: Featured
 ---
