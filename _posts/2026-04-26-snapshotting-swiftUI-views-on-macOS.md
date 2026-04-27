@@ -6,7 +6,9 @@ tag: Featured
 ---
 You have a SwiftUI view on macOS and you want to turn it into an `NSImage` for some downstream use: a tab preview, a thumbnail cache, an offline export... **This post walks through the three pipeline designs, when each one fits, and where the sync-vs-async trade-off shows up.**
 
-<img title="" src="/assets/images/March7th.jpg" alt="March 7th" data-align="center">
+[Code Sample on Github](https://github.com/hanyutang-sandra/snapshotting-swiftUI-views-on-macOS-sample-code)
+
+<img title="" src="/assets/images/snapshot.png" alt="Snapshot Profiling Result" width="686" data-align="center">
 
 <!--more-->
 
